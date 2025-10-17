@@ -1,4 +1,4 @@
-Synapse by Axelyn is an open, privacy-first chat workspace that lets you plug in your own AI API keys (OpenAI, Anthropic, Groq, Mistral, etc.) and use advanced context tools like LlamaIndex and LangGraph.
+Auri by Axelyn is an open, privacy-first chat workspace that lets you plug in your own AI API keys (OpenAI, Anthropic, Groq, Mistral, etc.) and use advanced context tools like LlamaIndex and LangGraph.
 It gives you:
 
 A modern ChatGPT-style interface
